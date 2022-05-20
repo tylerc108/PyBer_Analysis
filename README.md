@@ -18,7 +18,7 @@ As you can see in the above graph, there are very clear differences between the 
 ## Summary
 ### Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 Based off of our analysis, we can recommend the following three recommendations for this business:
-* 1. The 'urban' category is very clearly the highest earning city type, so we recommend keeping ride fares relatively stable/low for users in these city types. We know that we are collecting relatively high amount of fares for rides in urban cities, so keeping prices consistent and affordable will keep up the income we are getting from urban riders.
-* 2. The 'suburban' category is lower in fare amount than the urban category. We could afford to raise prices for rides slightly in suburban cities so that we can try and increase the total fares we are getting from this city type and try and decrease disparity between suburban and urban city fares.
-* 3. The 'rural' category is lowest in fare amount overall, so we recommend raising prices for cities that fall into these categories so that we can try to raise total fares brought in to the company and limit the disparity between the fare total of other city types.
+1. The 'urban' category is very clearly the highest earning city type, so we recommend keeping ride fares relatively stable/low for users in these city types. We know that we are collecting relatively high amount of fares for rides in urban cities, so keeping prices consistent and affordable will keep up the income we are getting from urban riders.
+2. The 'suburban' category is lower in fare amount than the urban category. We could afford to raise prices for rides slightly in suburban cities so that we can try and increase the total fares we are getting from this city type and try and decrease disparity between suburban and urban city fares.
+3. The 'rural' category is lowest in fare amount overall, so we recommend raising prices for cities that fall into these categories so that we can try to raise total fares brought in to the company and limit the disparity between the fare total of other city types.
 
